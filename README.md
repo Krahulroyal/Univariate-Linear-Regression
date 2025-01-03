@@ -43,8 +43,10 @@ plt.show()
 ```
 ## Output
 </br>
+![alt text](<Screenshot 2025-01-03 155148.png>)
 </br>
 </br>
+![alt text](<Screenshot 2025-01-03 155202.png>)
 </br>
 
 ## Result
